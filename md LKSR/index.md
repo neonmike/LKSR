@@ -49,13 +49,6 @@
 
 
 
+----
 
-
-
-
-
-
-
-
-
-
+@copyright by LKSR 
