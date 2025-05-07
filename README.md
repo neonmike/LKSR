@@ -17,3 +17,4 @@ Simple blog --一个使用Github pages 搭建的web 模板
 
 ![image](https://github.com/user-attachments/assets/d834e8b1-7ffa-43b4-b21b-83c000997d8b)
 ![image](https://github.com/user-attachments/assets/7861b757-0496-4fe7-ab97-a3cf1e4a6b3f)
+![image](https://github.com/user-attachments/assets/e4d5487d-1810-49d2-93e4-0fada9ef024a)
